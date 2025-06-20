@@ -2,6 +2,8 @@
 
 **Seamlessly sync your environment configurations across web applications**
 
+> Public Alpha v0.3.0 is out. Checkout out blog at [https://blog.envsync.cloud/blog/hello-world](https://blog.envsync.cloud/blog/hello-world)
+
 ---
 
 ## ✨ What we do
