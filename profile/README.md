@@ -2,7 +2,7 @@
 
 **Seamlessly sync your environment configurations across web applications**
 
-> Public Alpha v0.3.0 is out. Checkout out blog at [https://blog.envsync.cloud/blog/hello-world](https://blog.envsync.cloud/blog/hello-world)
+> Public Alpha v0.4.0-rc3 is out. Checkout out blog at [https://blog.envsync.cloud/blog/hello-world](https://blog.envsync.cloud/blog/hello-world)
 
 ---
 
@@ -19,10 +19,9 @@ Keep your `.env` files, configuration secrets, and environment variables perfect
 
 ## 🛠️ Popular Repositories
 
-- [`envsync-cli`](https://github.com/EnvSync-Cloud/envsync-cli) - Command line interface for environment synchronization
-- [`envsync-web`](https://github.com/EnvSync-Cloud/envsync-web) - Web dashboard for managing configurations
-- [`envsync-api`](https://github.com/EnvSync-Cloud/envsync-api) - REST API and backend services
-- [`envsync-landing`](https://github.com/EnvSync-Cloud/envsync-landing) - Landing page
+- [`envsync`](https://github.com/EnvSync-Cloud/envsync) - Monorepo for Project EnvSync
+- [`miniKMS`](https://github.com/EnvSync-Cloud/minikms) - MiniKMS
+- [`chabi`](https://github.com/EnvSync-Cloud/chabi) - Chabi
 
 ## 🤝 Get Involved
 
