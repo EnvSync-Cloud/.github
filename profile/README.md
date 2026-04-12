@@ -2,7 +2,7 @@
 
 **Seamlessly sync your environment configurations across web applications**
 
-> Public Alpha v0.4.0-rc3 is out. Checkout out blog at [https://blog.envsync.cloud/blog/hello-world](https://blog.envsync.cloud/blog/hello-world)
+> Public Alpha v0.7.1 is out.
 
 ---
 
