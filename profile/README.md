@@ -2,7 +2,7 @@
 
 **Seamlessly sync your environment configurations across web applications**
 
-> Public Alpha v0.7.5 is out.
+> Public Alpha v0.10.4 is out.
 
 ---
 
